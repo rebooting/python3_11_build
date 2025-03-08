@@ -2,7 +2,7 @@
 # Python 3.11.9 Build Project
 
 This project provides Docker-based build scripts to compile Python 3.11.9 from source and package it as a portable ZIP file for Ubuntu 24.04.
-It's an alternative me to using deadsnakes PPA or other package managers to install Python on Ubuntu 24.04 to run FastSDcpu.
+It's an alternative for me to using deadsnakes PPA or other package managers to install Python on Ubuntu 24.04 to run FastSDcpu.
 
 ## Prerequisites
 
